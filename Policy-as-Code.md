@@ -1,4 +1,4 @@
-### Policy-as-Code
+# Policy-as-Code
 
 Policy as Code (PaC) is the practice of defining compliance, security, and governance rules in machine-readable formats that can be automatically enforced across infrastructure, applications, and data.
 Instead of manual audits and checklists, policies are:
