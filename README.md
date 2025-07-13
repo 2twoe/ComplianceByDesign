@@ -1,4 +1,4 @@
-# ComplianceByDesign
+# #ComplianceByDesign
 Architectural strategies for regulatory compliance in financial systems, with focus on Zimbabwean financial institutions.
 
 ## Overview
