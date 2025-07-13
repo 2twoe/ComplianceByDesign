@@ -1,0 +1,22 @@
+
+
+
+{
+  //AWS Service Control Policy Example
+  //Rule: No resources can be created without RBZ-mandated tags.
+  "Version": "2025-07-01",
+  "Statement": [
+    {
+      "Sid": "RequireRBZTags",
+      "Effect": "Deny",
+      "Action": "*",
+      "Resource": "*",
+      "Condition": {
+        "Null": {
+          "aws:RequestTag/DataClassification": "true",
+          "aws:RequestTag/RetentionPeriod": "true"
+        }
+      }
+    }
+  ]
+}
