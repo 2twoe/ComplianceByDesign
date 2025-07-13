@@ -34,4 +34,4 @@ See our Implementation guide for how to apply these patterns in your organisatio
 ## Contributing
 
 We welcome contributions. Or comments on the LinkedIn Post https://www.linkedin.com/posts/thuthukilenicoletta_compliancebydesign-zimbabwe-financialintelligenceunit-activity-7333747430489853953-XDvf?utm_source=share&utm_medium=member_desktop&rcm=ACoAABS27lABh4NFEIxjXfS92RzpxmY3MQRTy5A
-Please review our contribution guidelines.
+
